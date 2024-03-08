@@ -4,7 +4,7 @@
   "homepage": "https://b-chunchun.github.io/BSwap",
   "private": true,
   "devDependencies": {
-    "@b-chunchun/uniswap-sdk": "3.0.3",
+    "@b-chunchun/uniswap-sdk": "3.0.7",
     "@ethersproject/experimental": "^5.0.1",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
